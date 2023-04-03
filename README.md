@@ -10,7 +10,7 @@
 - 💬 Ask me about life hacks
 - 📫 How to reach me: **jannatpritha5515@gmail.com**
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a very fast learner
+- ⚡ Fun fact: People get inspired to see me 
 
 
 <h3 align="left">Languages and Tools:</h3>
