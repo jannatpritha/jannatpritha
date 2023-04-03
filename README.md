@@ -1,7 +1,7 @@
 
 
-<h4 align="center">Hi 👋, I'm Jannatul Naim</h4>
-<h5 align="center">I am a CS student working on Machine Learning</h5>
+<h3 align="center">Hi 👋, I'm Jannatul Naim</h3>
+<h4 align="center">I am a CS student working on Machine Learning</h4>
 
 - 🔭 I’m currently working on Pretrained Models for Text Classification
 - 🌱 I’m currently learning Multimodal Classification
