@@ -3,10 +3,10 @@
 <h3 align="center">Hi 👋, I'm Jannatul Naim</h3>
 <h4 align="center">I am a CS student working on Machine Learning</h4>
 
-- 🔭 I’m currently working on Pretrained Models for Text Classification
-- 🌱 I’m currently learning Multimodal Classification
-- 👯 I’m looking to collaborate on improvement of pretrained models
-- 🤔 I’m looking for help with ML algo
+- 🔭 Working on Pretrained Models for Text Classification
+- 🌱 Learning Multimodal Classification
+- 👯 Looking forward to collaborating on the improvement of pre-trained models
+- 🤔 Looking for help with ML algo
 - 💬 Ask me about life hacks
 - 📫 How to reach me: **jannatpritha5515@gmail.com**
 - 😄 Pronouns: she/her
